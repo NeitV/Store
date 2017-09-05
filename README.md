@@ -1,0 +1,2 @@
+# Store
+theme wp
